@@ -1,0 +1,28 @@
+.command-center-card {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background-color: var(--card-background-color);
+  }
+  
+  .calendar-container,
+  .todo-container {
+    margin-bottom: 16px;
+  }
+  
+  .event,
+  .todo-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .icon {
+    margin-right: 8px;
+    font-size: 1.5em;
+  }
+  
+  .todo-item input {
+    margin-right: 8px;
+  }
+  

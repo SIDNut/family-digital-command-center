@@ -1,0 +1,11 @@
+{
+    "name": "Family Digital Command Center",
+    "version": "1.0.0",
+    "slug": "family_digital_command_center",
+    "description": "A HACS add-on for Home Assistant that provides a Family Digital Command Center integrating multiple Google Calendars, pictorial event displays, and a synced to-do list.",
+    "documentation": "https://github.com/SIDNut/family-digital-command-center",
+    "dependencies": [],
+    "codeowners": ["@SIDNut"],
+    "requirements": []
+  }
+  
